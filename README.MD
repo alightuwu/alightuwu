@@ -2,7 +2,7 @@
 class rockout():
   def __init__(self):
       self.name = "Jamal"
-      self.username = "@bypaths"
+      self.username = "@rejecs"
       
       self.age = "13" #basically
       self.dob = "April 19 2009"
