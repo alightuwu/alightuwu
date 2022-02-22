@@ -1,10 +1,11 @@
 ```py
-class rockout():
+class s4nity():
   def __init__(self):
       self.name = "Jamal"
-      self.username = "@rejecs"
+      self.alias = "rejecs, sinful"
+      self.username = "@s4nity"
       
-      self.age = "13" #basically
+      self.age = "13"
       self.dob = "April 19 2009"
       self.languages = "Python, HTML, CSS & Javascript"
       
