@@ -1,5 +1,5 @@
 
-<h2> About Me </h2>
+<h2> About Me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h2> 
 
 ```py
 class About_me:
