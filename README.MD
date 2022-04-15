@@ -15,6 +15,7 @@ class About_me:
         self.cpu = 'Intel Core i3'
         self.languages = ['Python', 'HTML', 'CSS']
         self.learning = 'Go, Javascript'
+	self.development = 'NFT Project'
 	   
 ```
 
