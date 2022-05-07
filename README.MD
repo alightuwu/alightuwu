@@ -7,7 +7,8 @@ class About_me:
         self.about_me = '''
 	I am Soul, a self taught Python developer. 
         My favourite language is python
-        I develop a lot of stuff, ranging from a variety of tools to exploiting software and api tools.
+        I develop a lot of stuff, ranging from a variety of tools.
+	I am currently interested in Cyber Secuirity, Artifical Intelligence, Exploiting & API Exploitation.
         '''
 	   
         self.os = 'Windows 10 Pro'
