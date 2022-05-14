@@ -40,8 +40,3 @@ class About_me:
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulsbj&theme=dark" />
 </a>
-
-```py
-if __name__ = "__main__":
-	About_me():
-```
