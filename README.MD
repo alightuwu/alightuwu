@@ -31,3 +31,6 @@ class About_me:
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulsbj&theme=light" />
 </a>
+<a href="t.me/bypaths">
+<img align="center" src="https://gifyu.com/image/Ssy10" />
+</a>
