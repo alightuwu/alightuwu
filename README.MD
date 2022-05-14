@@ -5,13 +5,19 @@
 class About_me:
     def __init__(self):
         self.about_me = '''
-		I'm soul a self taught developer.
-		I am currently interested in Cyber Secuirity (Ethical Hacking), Artifical Intelligence & API Exploitation.
+	   I'm soul a self taught developer.
+           I am currently interested in Cyber Secuirity (Ethical Hacking), Artifical Intelligence & API Exploitation.
         '''
+	
 	self.age = "13"
+	self.net_worth = "$0.00"
+	self.sports = "Basketball, Track"
+	self.hireable = "True"
+	
         self.os = 'Windows 10 Pro'
         self.ram = '8 GB'
         self.cpu = 'Intel Core i3'
+	
         self.languages = ['Python', 'HTML', 'CSS', 'Javascript']
         self.learning = 'PHP, SQL, Extremely Advanced Python'
 	self.in_development = 'Null'
@@ -34,3 +40,8 @@ class About_me:
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulsbj&theme=dark" />
 </a>
+
+```py
+if __name__ = "__main__":
+	About_me():
+```
