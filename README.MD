@@ -23,8 +23,8 @@ class About_me:
 	self.in_development = 'Null'
 	   
 ```
-<a href="t.me/bypaths">
-<img align="center" src="https://s8.gifyu.com/images/standard22e050a5dc63c8af.gif" />
+<a href="ogu.gg/alight">
+<img align="center" src="https://i.imgur.com/pihD5Dw.gif" />
 </a>
 
 <h2> Connect With Me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
