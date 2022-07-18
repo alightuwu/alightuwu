@@ -5,12 +5,12 @@
 class About_me:
     def __init__(self):
         self.desc = '''
-	   I'm soul a self taught developer.
+	   I'm alight aka soul a self taught developer.
            I am currently interested in Cyber Secuirity (Ethical Hacking), Artifical Intelligence & API Exploitation.
         '''
 	
-	self.age = "13"
-	self.net_worth = "$0.00"
+	self.age = "14"
+	self.net_worth = "$113.00"
 	self.sports = "Basketball, Track"
 	self.hireable = "True"
 	
